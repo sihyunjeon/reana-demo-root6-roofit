@@ -12,7 +12,7 @@
    :target: https://github.com/reanahub/reana-demo-root6-roofit/blob/master/LICENSE
 
 .. image:: https://www.reana.io/static/img/badges/launch-on-reana-at-cern.svg
-   :target: https://reana.cern.ch/launch?url=https%3A%2F%2Fgithub.com%2Freanahub%2Freana-demo-root6-roofit&specification=reana.yaml&name=reana-demo-root6-roofit
+   :target: https://reana.cern.ch/launch?url=https%3A%2F%2Fgithub.com%2Fsihyunjeon%2Freana-demo-root6-roofit&specification=reana.yaml&name=reana-demo-root6-roofit
 
 About
 =====
